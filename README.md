@@ -1,1 +1,1 @@
-# Codility-coding-challenges
+# Codility-coding-challenge
